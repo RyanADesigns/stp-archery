@@ -1,0 +1,27 @@
+body {
+  background-color: #93C240;
+}
+.Logo {
+  height: 100px;
+  width: 100px;
+}
+#page_title {
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+  left: 39rem;
+}
+#logo_left {
+  position: absolute;
+  left: 30rem;
+}
+#logo_right {
+  position: absolute;
+  left: 67rem
+}
+nav {
+  display: block;
+  position: absolute;
+  top: 25rem;
+  
+}
